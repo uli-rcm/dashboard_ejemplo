@@ -12,7 +12,7 @@ import matplotlib.pyplot as plt #Para realizar gráficas
     
     
 ######## Página principal ########
-st.write("Hola mundo en streamlit")
+st.title('Hola mundo en streamlit')
 
 #Ejemplo 5 - Figura 5
 fig5 = plt.figure()
