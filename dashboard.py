@@ -13,12 +13,6 @@ import matplotlib.pyplot as plt #Para realizar gráficas
     
 ######## Página principal ########
 st.write("Hola mundo en streamlit")
-df = pd.DataFrame({
-'col1': [1,2,3,4],
-'col2': [2,4,6,8]
-})
-
-df
 
 #Ejemplo 5 - Figura 5
 fig5 = plt.figure()
